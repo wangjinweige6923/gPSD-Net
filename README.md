@@ -20,7 +20,14 @@ gPSD-Net/
     ├── sccd_filtered/
     └── stare/
 
+python -m pip install -r requirements.txt
 
+
+## Evaluation
+
+Examples:
+
+```bash
 
 python eval_drive.py --models_dir ./models/drive --data_dir ./data/DRIVE --results_dir ./results/drive --lambda_list "0.2" --seeds "42"
 
