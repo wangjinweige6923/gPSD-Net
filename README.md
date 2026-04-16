@@ -1,5 +1,15 @@
 ![fig1](fig1.png)
 
+## Dataset and Pretrained Models
+
+Due to GitHub storage limitations, datasets, pretrained models, and results are hosted externally.
+
+Download (Data + Models + Results):  
+  https://drive.google.com/file/d/1xGU66g3pUG4e9vGcdUZXP8wzPrHVvZP_/view?usp=drive_link
+
+
+
+
 gPSD-Net/
 ├── __pycache__/
 ├── data/
