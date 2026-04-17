@@ -1,3 +1,6 @@
+gPSD-Net: Fusion of Grayscale Intensity and Pixel Difference with
+Spatial Dependency Awareness for Retinal Vessel Segmentation
+
 ![fig1](fig1.png)
 
 ## Dataset and Pretrained Models
