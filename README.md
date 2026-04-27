@@ -12,7 +12,7 @@ https://drive.google.com/file/d/1dvPZv7O7QgnTz-MOdcNLDsVZ66e2JJdH/view?usp=drive
 https://drive.google.com/file/d/1pVTPr7jflY3ZHRyr4RA39JpZfRq_TUp-/view?usp=drive_link
 https://drive.google.com/file/d/1xGU66g3pUG4e9vGcdUZXP8wzPrHVvZP_/view?usp=drive_link
 
-gPSD-Net/
+GPSD-Net/
 ├── __pycache__/
 ├── data/
 │   ├── CHASEDB1/
